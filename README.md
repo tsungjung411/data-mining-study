@@ -1,3 +1,4 @@
+## 純統計測量
 - 離群值的檢測
   <br>http://highscope.ch.ntu.edu.tw/wordpress/?p=73655
 - 箱形圖 (Box plot)
